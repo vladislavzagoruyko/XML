@@ -1,7 +1,8 @@
+<?xml version="1.0"?>
 <interests>
-<favorit_movie>"В августе 44-го"</favorit_movie>
-<favorite_TV_series>"Друзья"</favorite_TV_series>
-<favorite_food>солянка</favorite_food>
-<favorite_time_of_the_year>лето</favorite_time_of_the_year>
-<country>Испания</country>
+  <favorit_movie>"В августе 44-го"</favorit_movie>
+  <favorite_TV_series>"Друзья"</favorite_TV_series>
+  <favorite_food>солянка</favorite_food>
+  <favorite_time_of_the_year>лето</favorite_time_of_the_year>
+  <country>Испания</country>
 </interests>
