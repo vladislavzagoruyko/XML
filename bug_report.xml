@@ -1,16 +1,17 @@
+<?xml version="1.0"?>
 <body>
-<br>1. Короткое описание (Summary)</br>
-<br>2. Проект (Project)</br>
-<br>3. Компонент приложения (Component)</br>
-<br>4. Номер версии (Version)</br>
-<br>5. Серьезность (Severity)</br>
-<br>6. Приоритет (Priority)</br>
-<br>7. Статус (Status)</br>
-<br>8. Автор (Author)</br>
-<br>9. Назначен на (Assigned To)</br>
-<br>10. Окружение. ОС / Сервис Пак и т.д. / Браузера + версия / ...</br>
-<br>11. Описание. Шаги воспроизведения Steps to Reproduce</br>
-<br>12. Фактический Результат (Result)</br>
-<br>13. Ожидаемый результат (Expected Result)</br>
-<br>14. Дополнения. Прикрепленный файл (Attachment)</br>
+  <br>1. Короткое описание (Summary)</br>
+  <br>2. Проект (Project)</br>
+  <br>3. Компонент приложения (Component)</br>
+  <br>4. Номер версии (Version)</br>
+  <br>5. Серьезность (Severity)</br>
+  <br>6. Приоритет (Priority)</br>
+  <br>7. Статус (Status)</br>
+  <br>8. Автор (Author)</br>
+  <br>9. Назначен на (Assigned To)</br>
+  <br>10. Окружение. ОС / Сервис Пак и т.д. / Браузера + версия / ...</br>
+  <br>11. Описание. Шаги воспроизведения Steps to Reproduce</br>
+  <br>12. Фактический Результат (Result)</br>
+  <br>13. Ожидаемый результат (Expected Result)</br>
+  <br>14. Дополнения. Прикрепленный файл (Attachment)</br>
 </body>
