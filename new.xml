@@ -1,6 +1,7 @@
+<?xml version="1.0"?>
 <profile>
-<initials>Загоруйко Владислав Сергеевич</initials>
-<age>36</age>
-<number_of_pets>Имеется один кот</number_of_pets>
-<future_desired_salary>Чтобы хватало на все мои потребности</future_desired_salary>
+  <initials>Загоруйко Владислав Сергеевич</initials>
+  <age>36</age>
+  <number_of_pets>Имеется один кот</number_of_pets>
+  <future_desired_salary>Чтобы хватало на все мои потребности</future_desired_salary>
 </profile>
